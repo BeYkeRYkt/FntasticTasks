@@ -1,0 +1,7 @@
+# Ignore builds
+x64/
+FntasticTask/x64
+
+# Ignore VS
+.vs/
+.vscode/
